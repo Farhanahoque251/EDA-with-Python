@@ -1,2 +1,2 @@
 # EDA-with-Python
-Exploratory Data Analysisi with Python
+Exploratory Data Analysis with Python
